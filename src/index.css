@@ -144,6 +144,13 @@ button:hover {
     .left .left-pane {
         flex: 1;
     }
+    .right-pane .conversation-header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: #FFFFFF;
+        /*clear: both;*/
+    }
 }
 
 .right-pane {
